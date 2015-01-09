@@ -1,5 +1,9 @@
 This is an excel spreadsheet made for Dogecoin but can be customized for any cryptocurrency. This is useful for tracking and analysis of your earnings and also can be used for tax filing purposes.
 
+
+
+>**[Download](https://github.com/doge-master/dogesheet/raw/master/dogesheet.xlsm "Download")**
+
 **FEATURES:**
 - 
 - Realtime price update for Cex.io, Bter, BTC38, Cryptsy, Exmo. `Updates every 20 seconds, this is to avoid lag. Blinks green when updating.`
@@ -12,6 +16,8 @@ This is an excel spreadsheet made for Dogecoin but can be customized for any cry
 - Adress watching
 
 - Easily updatable and customizable for different cryptocurrencies and exchanges.
+
+----------
 
 This script will NOT work on Excel 2003 and earlier versions or online readers.
 
